@@ -12,9 +12,9 @@ Para facilitar os cadastros foram implementados API do Correios para preenchimen
 
 Tecnologias utilizadas
 
-.NET Core - C#
-Asp.NET MVC
-Web API Correios
-Razor
-Java Script
+.NET Core - C# /
+Asp.NET MVC /
+Web API Correios /
+Razor /
+Java Script /
 SQL Server 
